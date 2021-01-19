@@ -82,6 +82,9 @@ Les pull requests permettent de tester le code dans des preview.
 
 on créé une nouvelle branche, on developpe dessus, on push sur github, on pull request, on test et on merge
 
+Question 22 : 	Le serverless est un cloud dans lequel le client peut developper 
+ses applications sans avoir besoin de s'occuper du serveur.
+ 
 
 
 
