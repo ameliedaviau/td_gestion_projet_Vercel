@@ -62,6 +62,26 @@ Question 16 : 	production, preview et development
 Ces trois environnement permettent de mieux organiser le code et de bien séparer les 
 différentes parties pour n'en modifier qu'un seul par la suite si besoin.
 
-Question 17 : 	
+Question 17 : 	sur git et vercel
+
+Question 18 :	https://td-gestion-projet-vercel-nnssu3ct8.vercel.app/
+
+Question 19 : 	la pull request est une demande de pull, permet de recuperer et 
+mettre a jour l'environnement de développement 
+
+voir capture
+
+Vercel reconnait qu'il y a une modification et propose de "compare and pull la request" sur l'interface Git
+une fois la pull request Vercel met tout à jour dans le projet et envoi un mail signalant la modification. 
+Trigger sur l'environnement preview
+
+Question 20 :	lorsque l'on merge, l'environnement de production est trigger. 
+
+Question 21 : 	l'environnement de producution correspond à la branch master.
+Les pull requests permettent de tester le code dans des preview.
+
+on créé une nouvelle branche, on developpe dessus, on push sur github, on pull request, on test et on merge
+
+
 
 
